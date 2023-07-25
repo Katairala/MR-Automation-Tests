@@ -6,25 +6,25 @@ This is the link for MegaRocket's website joaco-megarocket-app.vercel.app.
 ## Introduction 🏋️
 The purpose of this project is to perform end-to-end testing using the WebDriverIO framework for MegaRocket Gym company. The objective of this system is to facilitate the management of the schedule grid and trainers assigned to each class, providing members with the possibility to enroll dynamically.
 <br>
-- The intended users of this web system include:
+<li> The intended users of this web system include: </li>
 <br>
-<li>Members: They can register, login, purchase memberships, 
-enroll in and withdraw from classes.</li>
-<li>Trainers:  they will have access to view their assigned schedules and the members enrolled in their classes.</li>
-<li>Administrators: who have access to create and edit classes, add trainers and assign them to classes, manage member profiles, and handle membership cancellations, among other functions.</li>
-<li>Super-admins: they are responsible for managing the administrators.</li>
+- Members: They can register, login, purchase memberships, 
+enroll in and withdraw from classes.
+- Trainers:  they will have access to view their assigned schedules and the members enrolled in their classes.
+- Administrators: who have access to create and edit classes, add trainers and assign them to classes, manage member profiles, and handle membership cancellations, among other functions.
+- Super-admins: they are responsible for managing the administrators.
 
 <br>
 
 ## Prerequisites
 Before running the tests, please ensure you have the following installed:
 
-
 <li>Node.js (https://nodejs.org)</li>
 <li>WebDriverIO (https://webdriver.io)</li>
 <li>Chrome or Firefox browser (latest version)</li>
 
 <br>
+
 ## Setup 💻
 To set up the project, follow these steps:
 
