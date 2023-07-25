@@ -7,11 +7,16 @@ This is the link for MegaRocket's website joaco-megarocket-app.vercel.app.
 The purpose of this project is to perform end-to-end testing using the WebDriverIO framework for MegaRocket Gym company. The objective of this system is to facilitate the management of the schedule grid and trainers assigned to each class, providing members with the possibility to enroll dynamically.
 <br>
 <li> The intended users of this web system include: </li>
+
 <br>
+
 - Members: They can register, login, purchase memberships, 
 enroll in and withdraw from classes.
+
 - Trainers:  they will have access to view their assigned schedules and the members enrolled in their classes.
+  
 - Administrators: who have access to create and edit classes, add trainers and assign them to classes, manage member profiles, and handle membership cancellations, among other functions.
+  
 - Super-admins: they are responsible for managing the administrators.
 
 <br>
